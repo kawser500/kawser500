@@ -9,4 +9,4 @@ My background in medicine provides a unique perspective for developing responsib
 ## Projects:
 
 * Library Management System (Python & SQL): Streamlined library management using Python for automation and a SQL database for efficient data storage and retrieval. (https://github.com/kawser500/Library-Management-System)
-* Sentiment Analysis for Amazon Reviews (Python, spaCy, TextBlob): Developed a sentiment analysis tool that analyzes product reviews and provides insights into customer satisfaction. (https://github.com/kawser500/NLP-Capstone-Project---Sentiment-Analysis)
+* Sentiment Analysis (Python, spaCy, TextBlob): Developed a sentiment analysis tool that analyzes product reviews and provides insights into customer satisfaction. (https://github.com/kawser500/NLP-Capstone-Project---Sentiment-Analysis)
