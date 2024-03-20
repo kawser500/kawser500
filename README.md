@@ -3,7 +3,7 @@
 ## Bio:
 
 I'm a medical doctor with a strong interest in Artificial Intelligence (AI) and its potential to revolutionize healthcare. 
-I recently completed a data science bootcamp, achieving a 98% average, and am eager to learn and apply AI techniques to improve patient care and medical research.  My background in medicine provides a unique perspective for developing responsible and effective AI solutions.
+I recently completed a data science bootcamp, achieving a 97% average, and am eager to learn and apply AI techniques to improve patient care and medical research.  My background in medicine provides a unique perspective for developing responsible and effective AI solutions.
 
 ## Projects:
 
